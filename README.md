@@ -4,7 +4,7 @@
 - 🎓 **Second Year CSE Student** at [SRM Institute of Science and Technology](https://www.srmist.edu.in/), Chennai.
 - 🌱 Exploring **Machine Learning**, **OpenCV**, and **Mobile App Development**.
 - 🎧 Enjoy brainstorming project ideas and experimenting with tech.
-- 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/n-v-jatin-pochiraju-bb8659287/) or [Email](mailto:jatinpochiraju@example.com).
+- 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/n-v-jatin-pochiraju-bb8659287/) or [Email](mailto:nvjatinpochiraju@example.com).
 
 ---
 
@@ -52,4 +52,4 @@
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/n-v-jatin-pochiraju-bb8659287/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:jatinpochiraju@example.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:nvjatinpochiraju@example.com)
