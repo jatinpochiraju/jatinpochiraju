@@ -4,7 +4,12 @@
 - 🎓 **Second Year CSE Student** at [SRM Institute of Science and Technology](https://www.srmist.edu.in/), Chennai.
 - 🌱 Exploring **Machine Learning**, **OpenCV**, and **Mobile App Development**.
 - 🎧 Enjoy brainstorming project ideas and experimenting with tech.
-- 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/n-v-jatin-pochiraju-bb8659287/) or [Email](mailto:nvjatinpochiraju@example.com).
+- 📫 Connect via [LinkedIn](https://www.linkedin.com/in/n-v-jatin-pochiraju-bb8659287/) or [Email](mailto:jatinpochiraju@example.com).
+
+---
+
+### 🖥️ Currently Coding
+![Coding GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
@@ -40,16 +45,16 @@
 
 ### 📌 Featured Projects
 
-- **CineverseDB-v2**: Movie database app with high-resolution posters and expanded collection.  
-- **PacManClone**: Python remake of the classic Pac-Man game.  
+- **CineverseDB-v2**: Movie database app with high-resolution posters.  
+- **PacManClone**: Python remake of classic Pac-Man game.  
 - **SRM-CGPA-Calculator**: CGPA calculator for SRM University students.  
-- **Tic-tac-toe**: Simple implementation of Tic-Tac-Toe game.  
-- **ToDo-Swift**: To-Do list application developed using Swift.  
-- **ppev2**: PPE-related project with version 2 enhancements.  
+- **Tic-tac-toe**: Simple Tic-Tac-Toe game.  
+- **ToDo-Swift**: To-Do list app using Swift.  
+- **ppev2**: PPE-related project version 2.  
 
 ---
 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/n-v-jatin-pochiraju-bb8659287/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:nvjatinpochiraju@example.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:jatinpochiraju@example.com)
