@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Jatin Pochiraju
 
 ### 🔭 About Me
-- 🎓 **Second Year CSE Student** at [SRM Institute of Science and Technology](https://www.srmist.edu.in/), Chennai.
+- 🎓 **Third Year CSE Student** at [SRM Institute of Science and Technology](https://www.srmist.edu.in/), Chennai.
 - 🌱 Exploring **Machine Learning**, **OpenCV**, and **Mobile App Development**.
 - 🎧 Enjoy brainstorming project ideas and experimenting with tech.
 - 📫 Connect via [LinkedIn](https://www.linkedin.com/in/n-v-jatin-pochiraju-bb8659287/) or [Email](mailto:jatinpochiraju@example.com).
