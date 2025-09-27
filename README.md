@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jatin Pochiraju
+# 👋 Hi there, I'm N V Jatin Pochiraju
 
 ### 🔭 About Me
 - 🎓 **Third Year CSE Student** at [SRM Institute of Science and Technology](https://www.srmist.edu.in/), Chennai.
